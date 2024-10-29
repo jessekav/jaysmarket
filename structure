@@ -1,0 +1,23 @@
+marketplace/
+│
+├── backend/
+│   ├── models/
+│   │   └── User.js
+│   │   └── Product.js
+│   ├── routes/
+│   │   └── auth.js
+│   │   └── products.js
+│   ├── server.js
+│   ├── .env
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   └── App.js
+│   ├── package.json
+│
+├── .gitignore
+├── README.md
+└── package.json
